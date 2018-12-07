@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "MMG@UNSW Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "MMG@UNSW- Publications."
 sitemap: false
 permalink: /publications/
 ---

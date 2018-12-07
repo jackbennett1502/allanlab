@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Pictures"
+title: "MMG@UNSW Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "MMG@UNSW- Pictures"
 permalink: /pictures/
 ---
 

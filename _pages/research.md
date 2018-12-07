@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "MMG@UNSW Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "MMG@UNSW- Research"
 sitemap: false
 permalink: /research/
 ---

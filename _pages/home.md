@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "MMG@UNSW - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Mechanisms and Modelling Group."
 sitemap: false
 permalink: /
 ---

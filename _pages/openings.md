@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "MMG@UNSW Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
