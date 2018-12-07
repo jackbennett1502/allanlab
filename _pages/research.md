@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+The group develops and applies methods of computational chemistry to model important processes in synthesis and in biochemical systems. Our expertise includes high-level *ab initio* calculations, hybrid quantum mechanics/molecular mechanics (QM/MM), molecular dynamics simulations and solvation modelling. Our research involves development, benchmarking and application of these tools to better understand reaction mechanisms, structure-activity relationships, and fundamental physical chemistry. 
 
 Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? 
  
