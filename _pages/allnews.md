@@ -5,7 +5,6 @@ excerpt: "Mechanisms and Modelling Group."
 sitemap: false
 permalink: /allnews.html
 ---
-
 # News
 
 {% for article in site.data.news %}
