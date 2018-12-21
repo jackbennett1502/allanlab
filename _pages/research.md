@@ -1,5 +1,5 @@
 ---
-title: "MMG@UNSW Research"
+title: "MMG@UNSW - Research"
 layout: textlay
 excerpt: "MMG@UNSW- Research"
 sitemap: false
@@ -7,8 +7,6 @@ permalink: /research/
 ---
 
 # Research
-
-The group develops and applies methods of computational chemistry to model important processes in synthesis and in biochemical systems. Our expertise includes high-level *ab initio* calculations, hybrid quantum mechanics/molecular mechanics (QM/MM), molecular dynamics simulations and solvation modelling. Our research involves development, benchmarking and application of these tools to better understand reaction mechanisms, structure-activity relationships, and fundamental physical chemistry. 
 
 #### Mechanisms and Catalysis
 We employ high-level *ab initio* quantum chemical methods to investigate the mechanisms of important synthetic reactions. Often, the aim is to identify the rate-limiting step so that we can propose chemical modifications to improve selectivity and/or yield of the reaction. As part of these studies, we are also interested in understanding the fundamental physical (in)organic chemistry that governs reactivity. This includes predicting radical stability, nucleophilicity and basicities, and multi-state reactivity especially in transition-metal systems. 
@@ -35,4 +33,6 @@ Knowledge of the preferred orientation of molecules on surfaces is critical for 
 
 #### Biomolecular Simulations
 We develop and apply methods to model the structure, function and dynamics of biomolecules. This includes G-DNA quadruplexes, light-harvesting proteins and various enzymes. We co-developed the Moving-Domain QM/MM method which is a linear-scaling method that can model the electrostatic potential of large macromolecules such as DNA and enzymes. This method has been successfully applied in the refinement of the crystal structure of Oxytricha nova G-quadruplex, and the resulting structure was validated through comparison with NMR data (see below). We also apply large scale MD simulations and network analysis to identify information flow within proteins (e.g. allosteric interactions), and propose chemical modifications that can modulate the activity of biomolecules. In an ongoing project, we are working with an experimental group at Yale on understanding how subtle modifications, i.e point mutations, can dramatically alter the activity of a protein known as Macrophage Inhibitory Factor (MIF).
+
+<br>
 

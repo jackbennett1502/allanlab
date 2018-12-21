@@ -1,5 +1,5 @@
 ---
-title: "MMG@UNSW Pictures"
+title: "MMG@UNSW - Pictures"
 layout: piclay
 excerpt: "MMG@UNSW- Pictures"
 permalink: /pictures/

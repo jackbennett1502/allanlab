@@ -1,5 +1,5 @@
 ---
-title: "MMG@UNSW Publications"
+title: "MMG@UNSW - Publications"
 layout: gridlay
 excerpt: "MMG@UNSW- Publications."
 sitemap: false

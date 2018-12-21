@@ -1,5 +1,5 @@
 ---
-title: "MMG@UNSW Vacancies"
+title: "MMG@UNSW - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
