@@ -2,6 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     colorator (0.1)
+    exec (0.0.3)
     ffi (1.9.24)
     jekyll (3.1.2)
       colorator (~> 0.1)
@@ -33,7 +34,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  exec
   jekyll
 
 BUNDLED WITH
-   1.11.2
+   1.17.1
